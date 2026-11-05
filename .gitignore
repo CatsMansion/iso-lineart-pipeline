@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 渲染产物不入库：仓库只放管线，图由脚本现出
+*.png
+*.jpg
+*.jpeg
+*.webp
+out/
+build/
+dist/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
