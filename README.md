@@ -10,6 +10,10 @@ cd scripts
 python design_shop.py shop_lineart.png     # 出一张 1920×1920 线稿，约 3 秒
 ```
 
+![sample](docs/sample-shop.png)
+
+<sub>`design_shop.py` 现出的示例（1280px）。屋顶悬空、排线糊剪影、斜撑读成脚手架这三类问题在这里都不存在——因为几何是三维的。</sub>
+
 ---
 
 ## 它解决什么
